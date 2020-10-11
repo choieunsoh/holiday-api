@@ -9,5 +9,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.9.1",
+    "express": "^4.17.1",
+    "mssql": "^6.2.3"
+  }
 }
